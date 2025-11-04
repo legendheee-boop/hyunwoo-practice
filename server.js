@@ -12,7 +12,7 @@ const server = http.createServer((req, res) => {
     const product =params.product
 
     let result;
-    
+    ㅁㄴㅇㄹㅁㄴㅇㄹㄴㅁㅇㄹ
     switch(pathName){
         case '/get-all-orders':
             result = getAllOrders()
